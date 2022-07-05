@@ -43,7 +43,6 @@ void setup() {
   {
       odrive_list[i]->reboot();
   }
-  delay(8000);
   for(int i=0; i<2; i++)
   {
       odrive_list[i]->Odrive_init();
