@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "..,..",
+  "builtInLibrariesFolders": "F:\\arduino\\libraries",
+  "builtInToolsFolders": "F:\\arduino\\tools-builder,F:\\arduino\\hardware\\tools\\avr,C:\\Users\\vortex\\AppData\\Local\\Arduino15\\packages",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.path=e:\\onedrive-317\\OneDrive - zju.edu.cn\\硕士课题\\代码设计\\esp32\\IED_arduino\\odrive_driver\\build,build.warn_data_percentage=75,runtime.tools.xtensa-esp32-elf-gcc.path=C:\\Users\\vortex\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\xtensa-esp32-elf-gcc\\1.22.0-97-gc752ad5-5.2.0,runtime.tools.xtensa-esp32-elf-gcc-1.22.0-97-gc752ad5-5.2.0.path=C:\\Users\\vortex\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\xtensa-esp32-elf-gcc\\1.22.0-97-gc752ad5-5.2.0,runtime.tools.esptool_py.path=C:\\Users\\vortex\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esptool_py\\3.0.0,runtime.tools.esptool_py-3.0.0.path=C:\\Users\\vortex\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esptool_py\\3.0.0,runtime.tools.mkspiffs.path=C:\\Users\\vortex\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\mkspiffs\\0.2.3,runtime.tools.mkspiffs-0.2.3.path=C:\\Users\\vortex\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\mkspiffs\\0.2.3",
+  "fqbn": "esp32:esp32:esp32:PSRAM=disabled,PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,DebugLevel=none",
+  "hardwareFolders": "F:\\arduino\\hardware,C:\\Users\\vortex\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\vortex\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10819",
+  "sketchLocation": "e:\\onedrive-317\\OneDrive - zju.edu.cn\\硕士课题\\代码设计\\esp32\\IED_arduino\\odrive_driver\\odrive_driver.ino"
+}
